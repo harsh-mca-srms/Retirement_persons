@@ -1,1 +1,2 @@
-# Retirement_persons
+Suppose you work as data scientist at a major bank in NYC and you have been asked to develop a model that can predict whether a customer will retire or not based on customer features. The features we have are the age and net savings(retirement savings)
+Lets see the code and the datase we have....
